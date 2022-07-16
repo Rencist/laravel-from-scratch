@@ -1,0 +1,72 @@
+{
+  "folders": [
+	{
+		"name": "Applications",
+		"path": "..\\.."
+	},
+	{
+		"name": "Coding",
+		"path": "..\\..\\..\\Private\\Coding"
+	},
+	{
+		"path": "..\\..\\..\\Private\\Schematics"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "stdio.h": "c",
+      "stdlib.h": "c",
+      "math.h": "c",
+      "array": "c",
+      "string.h": "c",
+      "ratio": "c",
+      "random": "c",
+      "numeric": "c",
+      "iostream": "cpp",
+      "string_view": "c",
+      "regex": "c",
+      "bitset": "c",
+      "chrono": "c",
+      "algorithm": "c",
+      "sstream": "c",
+      "limits": "c",
+      "valarray": "c",
+      "cmath": "c",
+      "deque": "c",
+      "forward_list": "c",
+      "list": "c",
+      "vector": "c",
+      "charconv": "c",
+      "string": "c",
+      "initializer_list": "c",
+      "utility": "c",
+      "map": "c",
+      "optional": "c",
+      "istream": "c",
+      "ostream": "c",
+      "system_error": "c",
+      "functional": "c",
+      "tuple": "c",
+      "type_traits": "c",
+      "set": "cpp",
+      "any": "cpp",
+      "atomic": "cpp",
+      "bit": "cpp",
+      "complex": "cpp",
+      "condition_variable": "cpp",
+      "cstddef": "cpp",
+      "cwchar": "cpp",
+      "future": "cpp",
+      "iomanip": "cpp",
+      "memory": "cpp",
+      "memory_resource": "cpp",
+      "mutex": "cpp",
+      "new": "cpp",
+      "scoped_allocator": "cpp",
+      "stdexcept": "cpp",
+      "thread": "cpp",
+      "typeindex": "cpp",
+      "variant": "cpp"
+    }
+  }
+}
